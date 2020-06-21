@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Winter</string>
+    <string name="splash_text">winter启动页-Yes</string>
+    <string name="click_to_enter">Winter开始</string>
+    <string name="hello_world_text">hello_world_text</string>
+</resources>
+
